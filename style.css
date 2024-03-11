@@ -61,7 +61,7 @@ h1 {
 }
 
 .div2:hover {
-  background: url(/images/iron\ man.webp);
+  background: url(images/iron\ man.webp);
   background-size: cover;
   background-position: center;
   transition: background-image 0.3s;
